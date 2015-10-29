@@ -1,5 +1,5 @@
 {
-	"name":"metamodels/bundle_translated",
+	"name":"designs2/bundle_translated",
 	"description":"MetaModels bundle for translated attributes",
 	"keywords":["contao", "metamodels", "bundle", "metapackage"],
 	"type":"metapackage",
@@ -35,17 +35,17 @@
 		"issues":"https://github.com/MetaModels/bundle_translated/issues",
 		"wiki":"http://de.contaowiki.org/MetaModels",
 		"irc":"irc://irc.freenode.org/contao.mm",
-		"source":"https://github.com/MetaModels/bundle_translated"
+		"source":"https://github.com/designs2/bundle_translated"
 	},
 	"require":{
-		"metamodels/attribute_translatedalias":"*@dev",
-		"metamodels/attribute_translatedfile":"*@dev",
-		"metamodels/attribute_translatedlongtext":"*@dev",
-		"metamodels/attribute_translatedselect":"*@dev",
-		"metamodels/attribute_translatedtabletext":"*@dev",
-		"metamodels/attribute_translatedtags":"*@dev",
-		"metamodels/attribute_translatedtext":"*@dev",
-		"metamodels/attribute_translatedcombinedvalues":"*@dev",
-		"metamodels/attribute_translatedcheckbox":"*@dev"
+		"designs2/attribute_translatedalias":"*",
+		"designs2/attribute_translatedfile":"*",
+		"designs2/attribute_translatedlongtext":"*",
+		"designs2/attribute_translatedselect":"*",
+		"designs2/attribute_translatedtabletext":"*",
+		"designs2/attribute_translatedtags":"*",
+		"designs2/attribute_translatedtext":"*",
+		"designs2/attribute_translatedcombinedvalues":"*",
+		"designs2/attribute_translatedcheckbox":"*"
 	}
 }
