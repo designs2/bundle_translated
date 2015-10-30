@@ -41,7 +41,7 @@
 		"designs2/attribute_translatedalias":"dev-master",
 		"designs2/attribute_translatedfile":"dev-master",
 		"designs2/attribute_translatedlongtext":"dev-master",
-		"designs2/attribute_translatedselect":"dev-master",
+		"designs2/attribute_translatedselect":"tng",
 		"designs2/attribute_translatedtabletext":"dev-master",
 		"designs2/attribute_translatedtags":"dev-master",
 		"designs2/attribute_translatedtext":"dev-master",
